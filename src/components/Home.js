@@ -1,4 +1,7 @@
 import React from "react";
+// import App from "./App";
+// import NavBar from "./NavBar";
+// import About from "./About";
 
 function Home(props) {
   return (
